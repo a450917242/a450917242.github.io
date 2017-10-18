@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "org.doncc.testandroidinstantapp",
+    "sha256_cert_fingerprints":
+    ["01:CD:30:56:A8:5E:EC:18:64:3D:8B:F2:AF:3F:B6:02:85:33:79:13:97:23:E3:FF:99:59:14:E5:03:FC:57:78"]
+  }
+}]
