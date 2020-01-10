@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.sina.news",
+    "package_name": "com.sina.fuyi",
     "sha256_cert_fingerprints":
     ["A0:78:C3:0F:0A:58:E6:3D:06:CA:5F:C7:C4:21:95:F6:A4:94:02:15:D4:BC:D2:3D:94:0B:7E:A0:3E:86:37:9D"]
   }
