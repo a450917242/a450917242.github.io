@@ -12,7 +12,7 @@
     <body>
         <div>
             <a id="J-call-app" href="javascript:;" class="label">立即打开&gt;&gt;</a>
-            <input id="J-download-app" type="hidden" name="storeurl" value="http://m.chanyouji.cn/apk/chanyouji-2.2.0.apk">
+            <input id="J-download-app" type="hidden" name="storeurl" value="http://gdown.baidu.com/data/wisegame/49835010fc978c30/xinlangxinwen_485.apk">
         </div>
 
         <script>
