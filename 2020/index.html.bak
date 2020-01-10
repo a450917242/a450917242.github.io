@@ -22,7 +22,7 @@
                 var config = {
                     /*scheme:必须*/
                     scheme_IOS: 'https://',
-                    scheme_Adr: 'https://a450917242.github.io/2020/index.html',
+                    scheme_Adr: 'https://app.blog.sina.com.cn',
                     download_url: document.getElementById('J-download-app').value,
                     timeout: 600
                 };
